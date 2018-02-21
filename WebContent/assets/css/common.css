@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+div{
+	border : 0px solid #d00000;
+}
+
+.navibar-brand{
+	padding : 7px 10px 0px 15px;
+}
+
+.profile {
+	
+	width: 160px;
+}
